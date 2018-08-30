@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LogScraper", "LogScraper\LogScraper.pyproj", "{90D7BBB1-AE36-4A78-BF8F-AD3A2498B44C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90D7BBB1-AE36-4A78-BF8F-AD3A2498B44C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D7BBB1-AE36-4A78-BF8F-AD3A2498B44C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B221C75A-4D89-4F46-A49E-CCBF81DE65CC}
+	EndGlobalSection
+EndGlobal
